@@ -1,0 +1,13 @@
+* Inbox
+** TODO Actually make a basic generator
+
+[[file:/run/media/tntman/BulkStorage/projects/minted/generator/README.md][file:/run/media/tntman/BulkStorage/projects/minted/generator/README.md]]
+** TODO Implement turnings SVGs into PNGs/JPEGs
+
+[[file:/run/media/tntman/BulkStorage/projects/minted/combiner/README.md::combiner]]
+** TODO Implement combining SVGs
+
+[[file:/run/media/tntman/BulkStorage/projects/minted/combiner/README.md::combiner]]
+** TODO Create file tree parser
+
+[[file:/run/media/tntman/BulkStorage/projects/minted/combiner/README.md::combiner]]
